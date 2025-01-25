@@ -1,0 +1,1 @@
+The Web Code Editor is a feature-rich, browser-based platform for writing, editing, and running code in multiple programming languages. Designed for developers, students, and enthusiasts, it offers a seamless coding experience with intuitive tools and a user-friendly interface.
